@@ -1,0 +1,476 @@
+Content 1
+
+
+
+
+git@github.com:cnstuart1/start-here-guidelines.git
+
+
+
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# UTA_DSBA_Courses_Outline"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Contents"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Program Overview\n",
+    "\n",
+    "# Pre Work\n",
+    "\n",
+    "# Python - Foundations\n",
+    "\n",
+    "# Business Statistics\n",
+    "\n",
+    "# Supervised Learning - Foundation\n",
+    "\n",
+    "# Supervised Learning - Classification"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Pre Work"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Python - Foundations"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Business Statistics"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Supervised Learning - Foundation"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Supervised Learning - Classification"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#     Introduction to Data Science And Business Analytics 38 min  - IMPORTANT VIDEO\n",
+    "#     Break the Ice: Peer Connect Forum\n",
+    "# Orientation- QnA Session 30th July 2022 at 3:30 PM GMT | 11:30 AM ET\n",
+    "#     DSBA Orientation Video 57m Viplove Raj Sharma General Manager of course - IMPORTANT VIDEO \n",
+    "#     Learning Philosophy 16m - VIDEO \n",
+    "#     7.2 PGP-DSBA-UTA-Jul'22 - 30th Jul - Delivery Schedule.xlsx - DSBA in Python - Delivery S.pdf -  - IMPORTANT SCHEDULE\n",
+    "# Program Delivery Components\n",
+    "#     Program Structure and Delivery Roadmap - IMPORTANT VIDEO\n",
+    "#     Grading Policy\n",
+    "#     Plagiarism\n",
+    "#     Forms of Plagiarism\n",
+    "#     Forms of Plagiarism explained\n",
+    "#     Common Misconceptions around Plagiarism\n",
+    "#     Guidelines\n",
+    "#     Plagiarism Quiz Your Marks: 6/7\n",
+    "#     Start with the Basics - IMPORTANT NOTE\n",
+    "#     Preparatory Sessions- Important Note - IMPORTANT NOTE\n",
+    "# Need Assistance? - Connect with us- PM Details\n",
+    "#     Get Support in the Program\n",
+    "# Start Learning\n",
+    "#     Jack Ma on Data Technology Opportunity\n",
+    "#     What is the Fourth Industrial Revolution\n",
+    "#     The Math behind Basketball's Wildest Moves - Ted Talk\n",
+    "#     How I Hacked Online Dating - Ted Talk\n",
+    "#     Transition to Analytics - Interview\n",
+    "#     Introduction to Data Science and Probability  - IMPORTANT NOTE"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Orientation- QnA Session 30th July 2022 at 3:30 PM GMT | 11:30 AM ET\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Introduction to Data Science And Business Analytics 38 min  - IMPORTANT VIDEO\n",
+    "# DSBA Orientation Video 57m - IMPORTANT VIDEO Viplove Raj Sharma General Manager of course \n",
+    "# Learning Philosophy 16m - VIDEO \n",
+    "# 7.2 PGP-DSBA-UTA-Jul'22 - 30th Jul - Delivery Schedule.xlsx - DSBA in Python - Delivery S.pdf -  - IMPORTANT SCHEDULE\n",
+    "# Program Structure and Delivery Roadmap - IMPORTANT VIDEO\n",
+    "# Start with the Basics - IMPORTANT NOTE\n",
+    "# Preparatory Sessions- Important Note - IMPORTANT NOTE\n",
+    "# Introduction to Data Science and Probability  - IMPORTANT NOTE"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "### Introduction to Data Science And Business Analytics 38 min  - IMPORTANT VIDEO\n",
+    "### DSBA Orientation Video 57m - IMPORTANT VIDEO Viplove Raj Sharma General Manager of course \n",
+    "# Learning Philosophy 16m - VIDEO \n",
+    "# 7.2 PGP-DSBA-UTA-Jul'22 - 30th Jul - Delivery Schedule.xlsx - DSBA in Python - Delivery S.pdf -  - IMPORTANT SCHEDULE\n",
+    "# Program Structure and Delivery Roadmap - IMPORTANT VIDEO\n",
+    "# Start with the Basics - IMPORTANT NOTE\n",
+    "# Preparatory Sessions- Important Note - IMPORTANT NOTE\n",
+    "# Introduction to Data Science and Probability  - IMPORTANT NOTE"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Introduction to Data Science and Probability - IMPORTANT NOTE  - Vin Diagram "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "### Introduction to Data Science and Probability - Vin Diagram\n",
+    "#### Data Science (DS), Tradional Research (TR), Software Development (SD), Machnine Learning (ML)\n",
+    "#### Primary components\n",
+    "###### Computer Science and Technology (CST) \n",
+    "###### Math & Statistics (MS)\n",
+    "###### Domain Business Knowledge (DBK)\n",
+    "#### Secondary components \n",
+    "##### Tradional Research (TR) = (MS)  + (DBK)\n",
+    "##### Software Development (SD) = (CS)  + (DBK)\n",
+    "##### Machnine Learning (ML) = (MS)  + (CS)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Start with the Basics\n",
+    "# Here, on Olympus, you will find a Courses tab. There are two sub-sections here: Active and Upcoming courses. The Upcoming Courses section has the courses that are currently locked. They will get unlocked as you move forward in the program. All your unlocked courses will appear in the Active courses section. Currently, you have access to the 3 Active courses.\n",
+    "\n",
+    "# Program Overview: This course will get you acquainted with the program's structure, scheduling, learning philosophy, and grading process. We recommend that you begin your learning journey by going through this course and reviewing the Orientation Video and the Learning Philosophy Video.\n",
+    "# Pre-Work: This course is designed to introduce Python to learners who are fresh to the world of Python programming. Our experienced learners use this course to master the fundamentals of Python programming. \n",
+    "# Python Foundations: This is your first graded course. You can start this course once you have completed the first two courses.\n",
+    "# Pro-Tip: Keep an eye on the Activity section of your Olympus dashboard to stay up to date on the various sessions that we are organizing for you."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Preparatory Sessions- Important Note"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Preparatory Sessions- Important Note\n",
+    "# To help you better prepare for your learning journey, we have scheduled weekly Preparatory sessions for you until Mentored Learning Sessions start on 25th/26th September. The objective of these sessions is to get you started with Python programming and to enable you to start analyzing data in Python. We strongly recommend that you attend this session if any of the following apply to you: - \n",
+    "\n",
+    "# You've never done any programming or coding before.\n",
+    "# You coded a long time ago, but you need to get back to practicing/doing it.\n",
+    "# You have some experience with other programming languages but want to learn Python.\n",
+    "# You have some experience with Python coding but need to brush up on the fundamentals.\n",
+    "# We have organized two types of preparatory sessions for you\n",
+    "\n",
+    "# Introduction to Python\n",
+    "# Business session\n",
+    "# We will repeat these sessions every week until the first Mentored Session on 25th/26th Sep, so if you miss one, you can make up for it the following week, but we strongly advise you to attend these sessions at least once before the structured learning journey begins.\n",
+    "\n",
+    "# We will share the exact timing of these sessions for each weekend via email/announcements. You will find the link to join these sessions on your dashboard every Saturday. \n",
+    "\n",
+    "# Please note these sessions are optional and non-graded. \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "### Introduction to Data Science and Probability"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# What is Data Science?\n",
+    "# Data Science is the science of extracting hidden patterns from large data sets\n",
+    "# Hidden patterns can appear in form of trends, cycles, associations, rules, groups etc. in the data\n",
+    "# Data sets usually refer to large volume of cleansed, structured data prepared for the analysis\n",
+    "# Science refers to the statistical tools and techniques employed to understand the data and reliability of the identified patterns\n",
+    "# That part of statistics which is used to understand the data is called descriptive statistics. Descriptive statistics give vital insights into the data in terms of central values, spread and distribution (shape) of the data.\n",
+    "# The part of statistics which is used to establish the reliability of the potential patterns identified, is called inferential statistics.\n",
+    "# This can easily be represented pictorially by following venn diagram\n",
+    "\n",
+    "#Data Vs Information:\n",
+    "# What is Data? \n",
+    "# Data is footprint of happenings – natural or human driven. Traditionally footprints used to be physical – in form of records in files or registers or receipts. Today majority of these footprints are digital – your browsing behavior, purchasing behavior etc. Data is the raw material that has information contained within but it has a lot of noise in it as well. When processed correctly, it can give us meaningful information.\n",
+    "\n",
+    "# Ticket sales on a band on tour\n",
+    "# Survey data: Different companies collect data by survey to know the opinion of people about their product\n",
+    "\n",
+    "# What is Information?\n",
+    "# Information is processed data. Information is basically the data plus the meaning of what the data was collected for minus the noise that got collected unintentionally.\n",
+    "\n",
+    "# Example:\n",
+    "\n",
+    "# Sales report by region and venue - tells us which venue is the most profitable\n",
+    "# Survey Reports and Results: Survey data is summarized into reports/information to present to management of the company\n",
+    "\n",
+    "# Key Differences:\n",
+    "# Data is the input and information is the output\n",
+    "# Data is unprocessed records but information is processed data which has been made sense of\n",
+    " \n",
+    "\n",
+    "# The Ascendance of data\n",
+    "# We live in a world that’s drowning in data. Websites track every user’s every click. Your smartphone is building up a record of your location and speed every second of every day.\n",
+    "\n",
+    "# “Quantified selfers” wear pedometers-on-steroids that are ever recording their heart rates, movement habits, diet, and sleep patterns. Smart cars collect driving habits, smart homes collect living habits, and smart marketers collect purchasing habits. The internet itself represents a huge graph of knowledge that contains (among other things) an enormous cross-referenced encyclopedia; domain-specific databases about movies, music, sports results, pinball machines, memes etc.\n",
+    "\n",
+    "# Probability\n",
+    "# Probability is simply how likely something is to happen. Whenever we’re unsure about the outcome of an event, we can talk about the probabilities of certain outcomes—how likely they are. The analysis of events governed by probability is called statistics.\n",
+    "\n",
+    "# The best example for understanding probability is flipping a coin:\n",
+    "\n",
+    "# There are two possible outcomes—heads or tails.\n",
+    "# What’s the probability of the coin landing on Heads? \n",
+    "\n",
+    "# Let’s call probability of coin landing on Head is P(H). You might intuitively know that the likelihood is half/half, or 50%. But how do we work that out?\n",
+    "\n",
+    "# PROBABILITY OF AN EVENT = (# OF WAYS IT CAN HAPPEN) / (TOTAL NUMBER OF OUTCOMES)\n",
+    "\n",
+    "# P(A) = (# OF WAYS A CAN HAPPEN) / (TOTAL NUMBER OF POSSIBLE OUTCOMES)\n",
+    "\n",
+    "# So, in this case,\n",
+    "\n",
+    "# # of ways coin can land on Head = 1 \n",
+    "# total number of possible outcomes = 2 (Head or Tails)\n",
+    "\n",
+    "# hence, P(H) = ½ or 50%\n",
+    "\n",
+    "# The probability of an event can only be between 0 and 1 and can also be written as a percentage.\n",
+    "# The probability of event A is often written as P(A).\n",
+    "# If P(A)>P(B), then event A has a higher chance of occurring than event B\n",
+    "# If P(A) = P(B), then events A and B are equally likely to occur\n",
+    " \n",
+    "\n",
+    "# Conditional Probability\n",
+    "# Conditional Probability is a measure of the probability of an event given that (by assumption, presumption, assertion or evidence) another event has already occurred. If the event of interest is A and the event B is known or assumed to have occurred, “the conditional probability of A given B”, is usually written as P(A|B).\n",
+    "# Independence\n",
+    "# Two events are said to be independent of each other, if the probability that one event occurs in no way affects the probability of the other event occurring, or in other words if we have observations about one event, it doesn’t affect the probability of the other. For Independent Events A and B below is true\n",
+    "\n",
+    " \n",
+    "\n",
+    "# P(A and B) = P(A) * P(B) where P(A) != 0 and P(B) != 0 \n",
+    "\n",
+    "# P(A|B) = P(A) and P(B|A) = P(B)\n",
+    "\n",
+    " \n",
+    "\n",
+    "# Example:\n",
+    "\n",
+    "# Let’s say you rolled a die and flipped a coin. The probability of getting any number face on the dice is no way influences the probability of getting a head or a tail on the coin.\n",
+    "\n",
+    "# The understanding of probability is fundamental to making meaningful inferences and predictions using data science. All different analytical techniques eventually get down to a probability – what is the probability of this ‘observation’ having happened by chance OR what is the probability that there is actually a relationship between variable A and B OR what is the probability that a certain event will happen?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Program Structure and Delivery Roadmap"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "### Program Structure and Delivery Roadmap\n",
+    "\n",
+    "# We'd like to introduce you to the structure and delivery components of the DSBA program.\n",
+    "\n",
+    "# The program is divided into differently structured courses and each course will be delivered over a period of 3-4 weeks. Once the program starts, new content will be released for you every week in accordance with this delivery schedule. Each course will have the following components:\n",
+    "\n",
+    "# Learning Material: 2-3 hours of video lectures will be released for you every week. Renowned academicians from around the world have helped us to curate these videos for you. Along with these videos, we will provide you with some reference reading material that will help you enhance your understanding of the topics you learned in the videos. \n",
+    "\n",
+    "# Practice Quizzes: Once you have completed a video a Test your Understanding quiz will be unlocked for you. These are ungraded quizzes that are designed to help you revisit the topics covered in the video content and prepare for the graded assessments. \n",
+    "\n",
+    "# Practice Material: Once you have grasped the theoretical concepts with the help of video lectures, this practice material will help you understand them better by working hands-on and putting them into practice. This material will be released in the form of case studies, caselets, and exercises. \n",
+    "\n",
+    "# Mentored Learning Session: Mentored Learning Sessions are weekly live online learning sessions conducted by industry professionals. These are interactive sessions in which you can clear your doubts, discuss case studies and project solutions to understand the real-world application of the concepts you have studied through video lectures. The session agenda and details will be shared with you one week before the session and you are required to watch all the video lectures before attending the mentored learning sessions.\n",
+    "\n",
+    "# Assessments: Assessments are an important aspect of this program as they help you assess your understanding of the concepts covered in the video lectures and your ability to use those concepts to solve real-world problems. There are three types of graded assessments:\n",
+    "\n",
+    "# Conceptual Quizzes: These quizzes are intended to assess your knowledge of the topics covered in that week's video content. they carry 30% weightage and depending on the length of the course, each course may comprise of 2-3 quizzes. It is advised that you attempt these quizzes after going through the weekly video content.\n",
+    "# Hands-on Quizzes: These quizzes are aimed to help you solve hands-on problems and prepare for your projects. They will support you in evaluating your programming and problem-solving skills, which are crucial to their success in the course. They are non-graded, non-mandatory quizzes.\n",
+    "# Project: Each course consists of a Project that will be released along with Week two/three’s content. This project will enable you to implement the concepts you have learned throughout the course. The project carries 60% of the weightage.\n",
+    "# Please Note: All graded assessments have deadlines, and you must score 60% or above in each course to be eligible for the certificate.\n",
+    "\n",
+    "# Peer Learning Activities: Throughout the program, we will be organizing hackathons, championships, and fun quizzes wherein you can compete with your fellow learners and help each other practice and hone your skills.\n",
+    "\n",
+    "# Now that you've grasped the Program structure and delivery components. We strongly advise you to finish the program overview, pre-work. If you have any queries, please feel free to contact your Program Manager or raise a support request from Olympus.\n",
+    "\n",
+    " "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Pre Work"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Python - Foundations"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Business Statistics"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Supervised Learning - Foundation"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Supervised Learning - Classification"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Courses\n",
+    "# Pre Work\n",
+    "# Python\n",
+    "# Business Statistics\n",
+    "# ML\n",
+    "# ML\n",
+    "# Resources\n",
+    "\n",
+    "# Other Courses\n",
+    "# Content\n",
+    "\n",
+    "# Course Outline\n",
+    "\n",
+    "# Know your faculty\n",
+    "\n",
+    "# Learning Instruments\n",
+    "\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Pre Work \n",
+    "# Content Course Outline\n",
+    "#"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
